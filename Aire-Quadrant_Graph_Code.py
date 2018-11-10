@@ -1,9 +1,12 @@
 #managed to do this by only knowing the dates, heights and  ht.
+#Q's
 #my qm is 299.4 not 300.2, why?
 #ask about the dotted line. would you prefer it to the actual origin or the 'origin'.
 
+#To Do:
 #could automate more by doing lists with upper limits for rating curve and figuring
 #out a quick way to place the ticks, e.g. a function or a loop.
+#need to find a way to work out F.E.Q and Tf accurately.
 
 import matplotlib.pyplot as plt
 import pandas as pd
